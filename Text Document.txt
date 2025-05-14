@@ -1,3 +1,4 @@
 Hi Good Night
 Hi we are trying to push changes from git to GitHub
 now will push this line using new branch to master branch
+now lets try to create conflict & try to push this line on newbranch after that try to merge with master
